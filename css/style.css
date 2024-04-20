@@ -59,6 +59,11 @@ input,select{
     display: none;
 }
 
+#todo-list{
+    height: 200px;
+    overflow-y: scroll;
+}
+
 /*Todo header*/
 .todo-container{
     max-width: 450px;

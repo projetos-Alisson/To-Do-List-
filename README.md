@@ -1,5 +1,3 @@
-# To do List 
-
 # Sobre
 O <strong>To do List </strong>, é um dos projetos mais comuns feitos com JavaScript, pois ele permite o estudante desenvolver habilidades de manipulação do DOM (Document Object Model),
 e foi com esse próposito que decidi fazê-lo.

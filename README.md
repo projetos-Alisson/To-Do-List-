@@ -6,7 +6,7 @@ e foi com esse próposito que decidi fazê-lo.
 O projeto foi baseado na aula do <strong>Matheus Battisti</strong>, dono do canal <strong>Hora de Cordar.</strong>
 
 
-<strong>Link do projeto</strong>: https://youtu.be/HSssE1PRQcA?si=pdivo-aLXJ3Zh13s <br>
+<strong>Link do projeto</strong>:[ https://youtu.be/HSssE1PRQcA?si=pdivo-aLXJ3Zh13s](https://projetos-alisson.github.io/To-Do-List-/) <br>
 
 <strong>Link do video</strong>: https://youtu.be/HSssE1PRQcA?si=pdivo-aLXJ3Zh13s
 
